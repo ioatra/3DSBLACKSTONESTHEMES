@@ -1,7 +1,8 @@
 Here's some themes I made! If there's any questions, [please send an ask to my tumblr!](https://www.tumblr.com/new/ask/fift33nfathoms)
 
 Each folder corresponds to a specific version, which have previews shown below. These themes also include music. 
-If you'd like to support me, just interact with my content on social medias. I also take suggestions!! <3
+
+If you'd like to support me, then just interact with my content on social medias. I also take suggestions! Enjoy ♥
 
 ### **P1(Band)**
 <img width="412" height="480" alt="Image" src="https://github.com/user-attachments/assets/413d3914-8445-43fc-8741-ecbce7113cb9" />
