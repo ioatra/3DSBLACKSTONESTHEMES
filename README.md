@@ -2,13 +2,13 @@ Here's some themes I made! If there's any questions, [please send an ask to my t
 
 Each folder corresponds to a specific version, which have previews shown below. These themes also include music. 
 
-### **BLACKSTONES P1(Band)**
+### **P1(Band)**
 <img width="412" height="480" alt="Image" src="https://github.com/user-attachments/assets/413d3914-8445-43fc-8741-ecbce7113cb9" />
 
-### **BLACKSTONES P2(Nobu, Shin, Yasu)**
+### **P2(Nobu, Shin, Yasu)**
 <img width="412" height="480" alt="Image" src="https://github.com/user-attachments/assets/09f05cec-2b01-4723-a48f-34655bee9b7c" />
 
-### **BLACKSTONES P3(Portrait)**
+### **P3(Portrait)**
 <img width="412" height="480" alt="Image" src="https://github.com/user-attachments/assets/e8b032fd-3a7d-44c2-bb85-0d78023d924b" />
 
 ## ❗ Important ❗
