@@ -20,7 +20,7 @@ If you'd like to support me, then just interact with my content on social medias
 - These themes are **not to be sold, redistributed commercially, or included in any paid content or services**.
 - These files are meant to be **transformative** in nature (reworked into interactive UI elements)
 - I created these solely for **personal enjoyment**, as a fan of this content!
-- I made this **without no goal of financial gain**, with intention to share **freely** within the fan community.
+- I made this **without the goal of financial gain**, with intention to share **freely** within the fan community.
 
 _**In other words...**_
 - This project is a **fan-made, nonprofit effort**. I do **not** claim ownership of any characters, artwork, music, or intellectual property used in these themes that originate from copyrighted works.
