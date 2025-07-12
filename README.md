@@ -4,6 +4,8 @@ Each folder corresponds to a specific version, which have previews shown below. 
 
 If you'd like to support me, then just interact with my content on social medias. I also take suggestions! Enjoy ♥
 
+[FAQ](https://fift33nfathoms.tumblr.com/post/788841017264701440/faq)
+
 ### **P1(Band)**
 <img width="412" height="480" alt="Image" src="https://github.com/user-attachments/assets/413d3914-8445-43fc-8741-ecbce7113cb9" />
 
